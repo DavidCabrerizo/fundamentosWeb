@@ -1,0 +1,5 @@
+.selection{
+    align-items: center; 
+    flex-direction: column;
+    display: flex;  
+}
